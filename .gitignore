@@ -1,0 +1,13 @@
+# Grunt intermediate storage
+.tmp
+
+# Dependency directory
+bower_components
+node_modules
+
+# Built artefacts
+build
+dist
+
+# Environment-specific configuration - NEVER commit to Git
+.env

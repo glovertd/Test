@@ -1,0 +1,13 @@
+{
+  "name": "abc",
+  "homepage": "https://github.com/glovertd/Test",
+  "authors": [
+    "Tim Glover <glovertd@gmail.com>"
+  ],
+  "description": "test",
+  "main": "idk",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT"
+}
